@@ -4,8 +4,8 @@
 
 ![](<.gitbook/assets/PAGE001.png>)
 
-Aka
-UI Test => Scenario Test
+Aka  
+UI Test => Scenario Test  
 Service Text => Functional Test
 
 
